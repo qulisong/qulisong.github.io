@@ -1,1 +1,5 @@
+# Site settings
+title: LS Blog
+SEOTitle: 松松的博客 | LS Blog
+description: "大音希声，大象无形"
 theme: jekyll-theme-cayman
